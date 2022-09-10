@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\RecruitCatSapkotti11\\RecruitCatSapkotti\\RecruitCatSapkotti.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\RecruitCatSapkotti\\RecruitCatSapkotti\\RecruitCatSapkotti.csproj",
       "projectName": "RecruitCatSapkotti",
-      "projectPath": "C:\\Users\\Admin\\source\\repos\\RecruitCatSapkotti11\\RecruitCatSapkotti\\RecruitCatSapkotti.csproj",
+      "projectPath": "C:\\Users\\Admin\\source\\repos\\RecruitCatSapkotti\\RecruitCatSapkotti\\RecruitCatSapkotti.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\source\\repos\\RecruitCatSapkotti11\\RecruitCatSapkotti\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\source\\repos\\RecruitCatSapkotti\\RecruitCatSapkotti\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
